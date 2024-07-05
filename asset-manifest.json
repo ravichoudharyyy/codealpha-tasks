@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codeaplha-task/static/css/main.d370c894.css",
+    "main.js": "/codeaplha-task/static/js/main.154bc8f2.js",
+    "index.html": "/codeaplha-task/index.html",
+    "main.d370c894.css.map": "/codeaplha-task/static/css/main.d370c894.css.map",
+    "main.154bc8f2.js.map": "/codeaplha-task/static/js/main.154bc8f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d370c894.css",
+    "static/js/main.154bc8f2.js"
+  ]
+}
